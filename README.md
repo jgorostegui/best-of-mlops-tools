@@ -15,12 +15,15 @@
     <a href="https://github.com/jgorostegui/best-of-mlops-tools/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/jgorostegui/best-of-mlops-tools?color=green&label=updated"></a>
 </p>
 
-This curated list contains 2 awesome open-source projects with a total of 11K stars grouped into 1 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/jgorostegui/best-of-mlops-tools/issues/new/choose), submit a [pull request](https://github.com/jgorostegui/best-of-mlops-tools/pulls), or directly edit the [projects.yaml](https://github.com/jgorostegui/best-of-mlops-tools/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 2 awesome open-source projects with a total of 11K stars grouped into 4 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/jgorostegui/best-of-mlops-tools/issues/new/choose), submit a [pull request](https://github.com/jgorostegui/best-of-mlops-tools/pulls), or directly edit the [projects.yaml](https://github.com/jgorostegui/best-of-mlops-tools/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
 ## Contents
 
+- [Data versioning tools](#data-versioning-tools) _0 projects_
+- [MLOps end-to-end platforms](#mlops-end-to-end-platforms) _0 projects_
+- [MLOps experimentation tracking tools](#mlops-experimentation-tracking-tools) _0 projects_
 - [Model Serving](#model-serving) _2 projects_
 
 ## Explanation
@@ -41,6 +44,30 @@ This curated list contains 2 awesome open-source projects with a total of 11K st
 - <img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13">&nbsp; Best-of list with Python projects
 - <img src="https://git.io/JLy1A" style="display:inline;" width="13" height="13">&nbsp; Uses/supports Tensorflow
 - <img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13">&nbsp; Uses/supports PyTorch
+
+<br>
+
+## Data versioning tools
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+_Tools for data versioning_
+
+<br>
+
+## MLOps end-to-end platforms
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+_MLOps platforms that covers all the machine learning lifecycle._
+
+<br>
+
+## MLOps experimentation tracking tools
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+_Tools for managing machine learning experimentation_
 
 <br>
 
