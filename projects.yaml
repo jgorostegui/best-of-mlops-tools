@@ -22,7 +22,8 @@ labels:
     description: "Uses/supports Tensorflow"
   - label: "pytorch"
     image: "https://git.io/JLy1Q"
-    description: "PyTorch related project"
+    description: "Uses/supports PyTorch"
+  - 
 
 projects:
   # - name: best-of-ml-python
@@ -36,7 +37,7 @@ projects:
   - name: TensorFlow Serving
     github_id: tensorflow/serving
     labels: ["tensorflow"]
-    category: mdoel-serving
+    category: model-serving
   - name: BentoML
     github_id: https://github.com/bentoml/BentoML
-    labels: ["tensorflow", "pytorch", ]
+    labels: ["tensorflow", "pytorch"]

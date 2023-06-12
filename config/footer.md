@@ -4,6 +4,7 @@
 ## Related Resources
 
 - [**Best-of lists**](https://best-of.org): Discover other best-of lists with awesome open-source projects on all kinds of topics.
+- [**Awesome MLOps**](https://github.com/visenger/awesome-mlops): An awesome list of references for MLOps - Machine Learning Operations: [ml-ops.org](https://ml-ops.org/)
 
 ## Contribution
 
