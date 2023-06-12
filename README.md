@@ -15,16 +15,23 @@
     <a href="https://github.com/jgorostegui/best-of-mlops-tools/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/jgorostegui/best-of-mlops-tools?color=green&label=updated"></a>
 </p>
 
-This curated list contains 2 awesome open-source projects with a total of 11K stars grouped into 4 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/jgorostegui/best-of-mlops-tools/issues/new/choose), submit a [pull request](https://github.com/jgorostegui/best-of-mlops-tools/pulls), or directly edit the [projects.yaml](https://github.com/jgorostegui/best-of-mlops-tools/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 2 awesome open-source projects with a total of 11K stars grouped into 6 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/jgorostegui/best-of-mlops-tools/issues/new/choose), submit a [pull request](https://github.com/jgorostegui/best-of-mlops-tools/pulls), or directly edit the [projects.yaml](https://github.com/jgorostegui/best-of-mlops-tools/edit/main/projects.yaml). Contributions are very welcome!
 
-> 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
+---
 
+<p align="center">
+     🧙‍♂️&nbsp; Discover other <a href="https://best-of.org">best-of lists</a> or create <a href="https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md">your own</a>.<br>
+</p>
+
+---
 ## Contents
 
+- [Data Preprocessing Tools](#data-preprocessing-tools) _0 projects_
 - [Data versioning tools](#data-versioning-tools) _0 projects_
 - [MLOps end-to-end platforms](#mlops-end-to-end-platforms) _0 projects_
 - [MLOps experimentation tracking tools](#mlops-experimentation-tracking-tools) _0 projects_
 - [Model Serving](#model-serving) _2 projects_
+- [Model Training Tools](#model-training-tools) _0 projects_
 
 ## Explanation
 - 🥇🥈🥉&nbsp; Combined project-quality score
@@ -44,6 +51,14 @@ This curated list contains 2 awesome open-source projects with a total of 11K st
 - <img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13">&nbsp; Best-of list with Python projects
 - <img src="https://git.io/JLy1A" style="display:inline;" width="13" height="13">&nbsp; Uses/supports Tensorflow
 - <img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13">&nbsp; Uses/supports PyTorch
+
+<br>
+
+## Data Preprocessing Tools
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+_Tools for data cleaning, transformation, and enrichment._
 
 <br>
 
@@ -93,6 +108,14 @@ _Tools for model serving_
 	git clone https://github.com/tensorflow/serving
 	```
 </details>
+<br>
+
+## Model Training Tools
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+_Tools for training machine learning models._
+
 
 ---
 
@@ -100,6 +123,7 @@ _Tools for model serving_
 
 - [**Best-of lists**](https://best-of.org): Discover other best-of lists with awesome open-source projects on all kinds of topics.
 - [**Awesome MLOps**](https://github.com/visenger/awesome-mlops): An awesome list of references for MLOps - Machine Learning Operations: [ml-ops.org](https://ml-ops.org/)
+- [**Best-of Machine Learning with Python**](https://github.com/ml-tooling/best-of-ml-python): A ranked list of awesome machine learning Python libraries. Updated weekly.
 
 ## Contribution
 
