@@ -47,18 +47,18 @@ projects:
   #   category: "data-engineering"
   - name: dvc (Data Version Control)
     category: data-versioning
-    github_id: https://github.com/iterative/dvc
+    github_id: iterative/dvc
   - name: Kubeflow
-    github_id: https://github.com/kubeflow/kubeflow
+    github_id: kubeflow/kubeflow
     category: mlops-end2end
   - name: MLFlow Tracking
     category: mlops-experimentation-tracking
-    github_id: https://github.com/mlflow/mlflow
+    github_id: mlflow/mlflow
   - name: sacred
-    github_id: https://github.com/IDSIA/sacred
+    github_id: IDSIA/sacred
     category: mlops-experimentation-tracking
   - name: BentoML
-    github_id: https://github.com/bentoml/BentoML
+    github_id: bentoml/BentoML
     labels: ["tensorflow", "pytorch"]
     category: model-serving
   - name: TensorFlow Serving
@@ -71,5 +71,5 @@ projects:
     category: model-serving
   - name: TFX
     category: model-training
-    github_id: https://github.com/tensorflow/tfx
+    github_id: tensorflow/tfx
     labels: ["tensorflow"]
