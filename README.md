@@ -21,8 +21,7 @@ This curated list contains 2 awesome open-source projects with a total of 11K st
 
 ## Contents
 
-- [Model Serving](#model-serving) _1 projects_
-- [Others](#others) _1 projects_
+- [Model Serving](#model-serving) _2 projects_
 
 ## Explanation
 - 🥇🥈🥉&nbsp; Combined project-quality score
@@ -41,7 +40,7 @@ This curated list contains 2 awesome open-source projects with a total of 11K st
 - 📦&nbsp; Number of dependent projects
 - <img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13">&nbsp; Best-of list with Python projects
 - <img src="https://git.io/JLy1A" style="display:inline;" width="13" height="13">&nbsp; Uses/supports Tensorflow
-- <img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13">&nbsp; PyTorch related project
+- <img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13">&nbsp; Uses/supports PyTorch
 
 <br>
 
@@ -51,7 +50,7 @@ This curated list contains 2 awesome open-source projects with a total of 11K st
 
 _Tools for model serving_
 
-<details><summary><b><a href="https://github.com/triton-inference-server/server">Triton Inference Server</a></b> (🥇29 ·  ⭐ 5.5K · ➕) - The Triton Inference Server provides an optimized.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://git.io/JLy1A" style="display:inline;" width="13" height="13"></code> <code><img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/triton-inference-server/server">Triton Inference Server</a></b> (🥇29 ·  ⭐ 5.5K) - The Triton Inference Server provides an optimized.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://git.io/JLy1A" style="display:inline;" width="13" height="13"></code> <code><img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/triton-inference-server/server) (👨‍💻 100 · 🔀 1.2K · 📥 200K · 📋 2.8K - 9% open · ⏱️ 11.06.2023):
 
@@ -59,13 +58,7 @@ _Tools for model serving_
 	git clone https://github.com/triton-inference-server/server
 	```
 </details>
-<br>
-
-## Others
-
-<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
-
-<details><summary><b><a href="https://github.com/tensorflow/serving">TensorFlow Serving</a></b> (🥇28 ·  ⭐ 5.9K · ➕) - A flexible, high-performance serving system for.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://git.io/JLy1A" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/tensorflow/serving">TensorFlow Serving</a></b> (🥉28 ·  ⭐ 5.9K) - A flexible, high-performance serving system for.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://git.io/JLy1A" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/tensorflow/serving) (👨‍💻 210 · 🔀 2.1K · 📦 2 · 📋 1.4K - 3% open · ⏱️ 08.06.2023):
 
@@ -79,6 +72,7 @@ _Tools for model serving_
 ## Related Resources
 
 - [**Best-of lists**](https://best-of.org): Discover other best-of lists with awesome open-source projects on all kinds of topics.
+- [**Awesome MLOps**](https://github.com/visenger/awesome-mlops): An awesome list of references for MLOps - Machine Learning Operations: [ml-ops.org](https://ml-ops.org/)
 
 ## Contribution
 
