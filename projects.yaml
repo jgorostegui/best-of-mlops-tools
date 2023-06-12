@@ -6,6 +6,15 @@ categories:
   # - category: "data-engineering"
   #   title: "Machine Learning & Data Engineering"
   #   subtitle: "Best-of lists about machine learning, data engieering, data science, or other topics related to big data."
+    - category: data-versioning
+      title: Data versioning tools
+      subtitle: "Tools for data versioning"
+    - category: mlops-end2end
+      title: MLOps end-to-end platforms
+      subtitle: "MLOps platforms that covers all the machine learning lifecycle."
+    - category: mlops-experimentation-tracking
+      title: MLOps experimentation tracking tools
+      subtitle: Tools for managing machine learning experimentation
     - category: model-serving
       title: Model Serving
       subtitle: "Tools for model serving"
@@ -23,13 +32,22 @@ labels:
   - label: "pytorch"
     image: "https://git.io/JLy1Q"
     description: "Uses/supports PyTorch"
-  - 
+
 
 projects:
   # - name: best-of-ml-python
   #   github_id: ml-tooling/best-of-ml-python
   #   labels: ["python"]
   #   category: "data-engineering"
+  - name: dvc (Data Version Control)
+    category: data-vesrioning
+    github_id: https://github.com/iterative/dvc
+  - name: Kubeflow
+    github_id: https://github.com/kubeflow/kubeflow
+    category: mlops-end2end
+  - name: MLFlow Tracking
+    category: mlops-experimentation-tracking
+    github_id: https://github.com/mlflow/mlflow
   - name: Triton Inference Server
     github_id: triton-inference-server/server
     labels: ["tensorflow", "pytorch"]
@@ -41,3 +59,4 @@ projects:
   - name: BentoML
     github_id: https://github.com/bentoml/BentoML
     labels: ["tensorflow", "pytorch"]
+    category: model-serving
