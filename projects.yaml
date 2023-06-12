@@ -6,14 +6,37 @@ categories:
   # - category: "data-engineering"
   #   title: "Machine Learning & Data Engineering"
   #   subtitle: "Best-of lists about machine learning, data engieering, data science, or other topics related to big data."
+    - category: model-serving
+      title: Model Serving
+      subtitle: "Tools for model serving"
 
 labels:
   # - label: "python"
   #   image: "https://www.python.org/static/favicon.ico"
   #   description: "Best-of list with Python projects"
+  - label: "python"
+    image: "https://www.python.org/static/favicon.ico"
+    description: "Best-of list with Python projects"
+  - label: "tensorflow"
+    image: "https://git.io/JLy1A"
+    description: "Uses/supports Tensorflow"
+  - label: "pytorch"
+    image: "https://git.io/JLy1Q"
+    description: "PyTorch related project"
 
 projects:
   # - name: best-of-ml-python
   #   github_id: ml-tooling/best-of-ml-python
   #   labels: ["python"]
   #   category: "data-engineering"
+  - name: Triton Inference Server
+    github_id: triton-inference-server/server
+    labels: ["tensorflow", "pytorch"]
+    category: model-serving
+  - name: TensorFlow Serving
+    github_id: tensorflow/serving
+    labels: ["tensorflow"]
+    category: mdoel-serving
+  - name: BentoML
+    github_id: https://github.com/bentoml/BentoML
+    labels: ["tensorflow", "pytorch", ]
