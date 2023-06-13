@@ -61,7 +61,7 @@ projects:
     category: data-labelling
     github_id: tzutalin/labelImg
   - name: ModelDB
-    categroy: data-versioning
+    category: data-versioning
     github_id: VertaAI/modeldb
     label: ["python"]
   - name: Kubeflow
