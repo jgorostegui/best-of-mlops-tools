@@ -11,7 +11,13 @@ categories:
     subtitle: "Tools for data cleaning, transformation, and enrichment."
   - category: data-versioning
     title: Data versioning tools
-    subtitle: "Tools for data versioning"
+    subtitle: "Tools for data (and model) versioning"
+  - category: data-labelling
+    title: Data labelling tools
+    subtitle: "Tools for data labelling"
+  - category: data-workflows
+    title: Data pipelining tools for machine learning
+    subtitle: "Frameworks that allow the creation, management, and optimization of complex data pipelines in a machine learning environment."
   - category: mlops-end2end
     title: MLOps end-to-end platforms
     subtitle: "MLOps platforms that covers all the machine learning lifecycle."
@@ -31,7 +37,10 @@ labels:
   #   description: "Best-of list with Python projects"
   - label: "python"
     image: "https://www.python.org/static/favicon.ico"
-    description: "Best-of list with Python projects"
+    description: "Python projects"
+  - label: "cpp"
+    image: "https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"
+    description: "C/C++ projects"
   - label: "tensorflow"
     image: "https://git.io/JLy1A"
     description: "Uses/supports Tensorflow"
@@ -48,10 +57,17 @@ projects:
   - name: dvc (Data Version Control)
     category: data-versioning
     github_id: iterative/dvc
+  - name: Labelimg
+    category: data-labelling
+    github_id: tzutalin/labelImg
+  - name: ModelDB
+    categroy: data-versioning
+    github_id: VertaAI/modeldb/
+    category: ["python"]
   - name: Kubeflow
     github_id: kubeflow/kubeflow
     category: mlops-end2end
-  - name: MLFlow Tracking
+  - name: MLFlow (Tracking)
     category: mlops-experimentation-tracking
     github_id: mlflow/mlflow
   - name: sacred
@@ -73,3 +89,21 @@ projects:
     category: model-training
     github_id: tensorflow/tfx
     labels: ["tensorflow"]
+  - name: Luigi
+    category: data-workflows
+    github_id: spotify/luigi
+  - name: Airflow
+    category: data-workflows
+    github_id: apache/airflow
+  - name: dagster
+    category: data-workflows
+    github_id: dagster-io/dagster
+  - name: Metaflow
+    category: data-workflows
+    github_id: Netflix/metaflow/
+  - name: Kubeflow (Kubeflow Pipelines)
+    category: data-workflows
+    github_id: kubeflow/kubeflow
+  - name: Argo
+    category: data-workflows
+    github_id: argoproj/argo-workflows
