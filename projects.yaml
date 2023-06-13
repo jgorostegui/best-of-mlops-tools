@@ -58,10 +58,6 @@ projects:
   - name: Labelimg
     category: data-labelling
     github_id: tzutalin/labelImg
-  - name: ModelDB
-    category: data-versioning
-    github_id: VertaAI/modeldb
-    label: ["python"]
   - name: dvc (Data Version Control)
     category: data-versioning
     github_id: iterative/dvc
