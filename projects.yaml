@@ -62,7 +62,7 @@ projects:
     github_id: tzutalin/labelImg
   - name: ModelDB
     categroy: data-versioning
-    github_id: VertaAI/modeldb/
+    github_id: VertaAI/modeldb
     category: ["python"]
   - name: Kubeflow
     github_id: kubeflow/kubeflow
@@ -100,7 +100,7 @@ projects:
     github_id: dagster-io/dagster
   - name: Metaflow
     category: data-workflows
-    github_id: Netflix/metaflow/
+    github_id: Netflix/metaflow
   - name: Kubeflow (Kubeflow Pipelines)
     category: data-workflows
     github_id: kubeflow/kubeflow
