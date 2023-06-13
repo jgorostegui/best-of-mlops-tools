@@ -10,12 +10,12 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-8-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-15-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/jgorostegui/best-of-mlops-tools/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/jgorostegui/best-of-mlops-tools?color=green&label=updated"></a>
 </p>
 
-This curated list contains 8 awesome open-source projects with a total of 61K stars grouped into 6 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/jgorostegui/best-of-mlops-tools/issues/new/choose), submit a [pull request](https://github.com/jgorostegui/best-of-mlops-tools/pulls), or directly edit the [projects.yaml](https://github.com/jgorostegui/best-of-mlops-tools/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 15 awesome open-source projects with a total of 170K stars grouped into 8 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/jgorostegui/best-of-mlops-tools/issues/new/choose), submit a [pull request](https://github.com/jgorostegui/best-of-mlops-tools/pulls), or directly edit the [projects.yaml](https://github.com/jgorostegui/best-of-mlops-tools/edit/main/projects.yaml). Contributions are very welcome!
 
 ---
 
@@ -27,6 +27,8 @@ This curated list contains 8 awesome open-source projects with a total of 61K st
 ## Contents
 
 - [Data Preprocessing Tools](#data-preprocessing-tools) _0 projects_
+- [Data labelling tools](#data-labelling-tools) _1 projects_
+- [Data pipelining tools for machine learning](#data-pipelining-tools-for-machine-learning) _6 projects_
 - [Data versioning tools](#data-versioning-tools) _1 projects_
 - [MLOps end-to-end platforms](#mlops-end-to-end-platforms) _1 projects_
 - [MLOps experimentation tracking tools](#mlops-experimentation-tracking-tools) _2 projects_
@@ -48,7 +50,8 @@ This curated list contains 8 awesome open-source projects with a total of 61K st
 - ⏱️&nbsp; Last update timestamp on package manager
 - 📥&nbsp; Download count from package manager
 - 📦&nbsp; Number of dependent projects
-- <img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13">&nbsp; Best-of list with Python projects
+- <img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13">&nbsp; Python projects
+- <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" style="display:inline;" width="13" height="13">&nbsp; C/C++ projects
 - <img src="https://git.io/JLy1A" style="display:inline;" width="13" height="13">&nbsp; Uses/supports Tensorflow
 - <img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13">&nbsp; Uses/supports PyTorch
 
@@ -62,13 +65,85 @@ _Tools for data cleaning, transformation, and enrichment._
 
 <br>
 
+## Data labelling tools
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+_Tools for data labelling_
+
+<details><summary><b><a href="https://github.com/heartexlabs/labelImg">Labelimg</a></b> (🥇28 ·  ⭐ 20K · 💤) - LabelImg is now part of the Label Studio community. The popular image.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/heartexlabs/labelImg) (👨‍💻 110 · 🔀 5.7K · 📦 880 · 📋 740 - 51% open · ⏱️ 22.09.2022):
+
+	```
+	git clone https://github.com/heartexlabs/labelImg
+	```
+</details>
+<br>
+
+## Data pipelining tools for machine learning
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+_Frameworks that allow the creation, management, and optimization of complex data pipelines in a machine learning environment._
+
+<details><summary><b><a href="https://github.com/apache/airflow">Airflow</a></b> (🥇43 ·  ⭐ 31K · ➕) - Apache Airflow - A platform to programmatically author, schedule,.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/apache/airflow) (👨‍💻 2.9K · 🔀 12K · 📥 490K · 📦 7.1K · 📋 7.4K - 9% open · ⏱️ 12.06.2023):
+
+	```
+	git clone https://github.com/apache/airflow
+	```
+</details>
+<details><summary><b><a href="https://github.com/argoproj/argo-workflows">Argo</a></b> (🥈39 ·  ⭐ 13K · ➕) - Workflow engine for Kubernetes. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/argoproj/argo-workflows) (👨‍💻 750 · 🔀 2.8K · 📥 2M · 📦 200 · 📋 5.2K - 16% open · ⏱️ 10.06.2023):
+
+	```
+	git clone https://github.com/argoproj/argo-workflows
+	```
+</details>
+<details><summary><b><a href="https://github.com/dagster-io/dagster">dagster</a></b> (🥈34 ·  ⭐ 7.6K · ➕) - An orchestration platform for the development, production, and.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/dagster-io/dagster) (👨‍💻 320 · 🔀 950 · 📦 1.2K · 📋 5.5K - 25% open · ⏱️ 12.06.2023):
+
+	```
+	git clone https://github.com/dagster-io/dagster
+	```
+</details>
+<details><summary><b><a href="https://github.com/kubeflow/kubeflow">Kubeflow (Kubeflow Pipelines)</a></b> (🥉33 ·  ⭐ 13K · ➕) - Machine Learning Toolkit for Kubernetes. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/kubeflow/kubeflow) (👨‍💻 290 · 🔀 2.1K · 📥 79K · 📦 41 · 📋 3.7K - 8% open · ⏱️ 29.05.2023):
+
+	```
+	git clone https://github.com/kubeflow/kubeflow
+	```
+</details>
+<details><summary><b><a href="https://github.com/spotify/luigi">Luigi</a></b> (🥉31 ·  ⭐ 17K · ➕) - Luigi is a Python module that helps you build complex pipelines of.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/spotify/luigi) (👨‍💻 600 · 🔀 2.3K · 📦 2.1K · 📋 960 - 9% open · ⏱️ 04.05.2023):
+
+	```
+	git clone https://github.com/spotify/luigi
+	```
+</details>
+<details><summary><b><a href="https://github.com/Netflix/metaflow">Metaflow</a></b> (🥉28 ·  ⭐ 6.7K · ➕) - Build and manage real-life data science projects with ease!. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/Netflix/metaflow) (👨‍💻 71 · 🔀 600 · 📦 480 · 📋 520 - 42% open · ⏱️ 12.06.2023):
+
+	```
+	git clone https://github.com/Netflix/metaflow
+	```
+</details>
+<br>
+
 ## Data versioning tools
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-_Tools for data versioning_
+_Tools for data (and model) versioning_
 
-<details><summary><b><a href="https://github.com/iterative/dvc">dvc (Data Version Control)</a></b> (🥇38 ·  ⭐ 12K · 📈) - Data Version Control | Git for Data & Models | ML.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/iterative/dvc">dvc (Data Version Control)</a></b> (🥇38 ·  ⭐ 12K) - Data Version Control | Git for Data & Models | ML.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/iterative/dvc) (👨‍💻 280 · 🔀 1K · 📥 110K · 📦 7.8K · 📋 4.3K - 13% open · ⏱️ 12.06.2023):
 
@@ -84,7 +159,7 @@ _Tools for data versioning_
 
 _MLOps platforms that covers all the machine learning lifecycle._
 
-<details><summary><b><a href="https://github.com/kubeflow/kubeflow">Kubeflow</a></b> (🥇33 ·  ⭐ 13K · 📈) - Machine Learning Toolkit for Kubernetes. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/kubeflow/kubeflow">Kubeflow</a></b> (🥇33 ·  ⭐ 13K) - Machine Learning Toolkit for Kubernetes. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/kubeflow/kubeflow) (👨‍💻 290 · 🔀 2.1K · 📥 79K · 📦 41 · 📋 3.7K - 8% open · ⏱️ 29.05.2023):
 
@@ -100,15 +175,15 @@ _MLOps platforms that covers all the machine learning lifecycle._
 
 _Tools for managing machine learning experimentation_
 
-<details><summary><b><a href="https://github.com/mlflow/mlflow">MLFlow Tracking</a></b> (🥇37 ·  ⭐ 15K · 📈) - Open source platform for the machine learning lifecycle. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/mlflow/mlflow">MLFlow (Tracking)</a></b> (🥇37 ·  ⭐ 15K · ➕) - Open source platform for the machine learning.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/mlflow/mlflow) (👨‍💻 590 · 🔀 3.3K · 📦 20K · 📋 2.9K - 32% open · ⏱️ 12.06.2023):
+- [GitHub](https://github.com/mlflow/mlflow) (👨‍💻 590 · 🔀 3.3K · 📦 20K · 📋 2.9K - 32% open · ⏱️ 13.06.2023):
 
 	```
 	git clone https://github.com/mlflow/mlflow
 	```
 </details>
-<details><summary><b><a href="https://github.com/IDSIA/sacred">sacred</a></b> (🥉26 ·  ⭐ 4K · 📈) - Sacred is a tool to help you configure, organize, log and reproduce.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/IDSIA/sacred">sacred</a></b> (🥉26 ·  ⭐ 4K) - Sacred is a tool to help you configure, organize, log and reproduce.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/IDSIA/sacred) (👨‍💻 100 · 🔀 360 · 📦 2.4K · 📋 550 - 17% open · ⏱️ 02.05.2023):
 
@@ -124,7 +199,7 @@ _Tools for managing machine learning experimentation_
 
 _Tools for model serving_
 
-<details><summary><b><a href="https://github.com/bentoml/BentoML">BentoML</a></b> (🥇31 ·  ⭐ 5K · 📈) - Unified Model Serving Framework. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://git.io/JLy1A" style="display:inline;" width="13" height="13"></code> <code><img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/bentoml/BentoML">BentoML</a></b> (🥇31 ·  ⭐ 5K) - Unified Model Serving Framework. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://git.io/JLy1A" style="display:inline;" width="13" height="13"></code> <code><img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/bentoml/BentoML) (👨‍💻 160 · 🔀 560 · 📥 1.9K · 📦 1K · 📋 880 - 16% open · ⏱️ 12.06.2023):
 
@@ -134,7 +209,7 @@ _Tools for model serving_
 </details>
 <details><summary><b><a href="https://github.com/triton-inference-server/server">Triton Inference Server</a></b> (🥉29 ·  ⭐ 5.5K) - The Triton Inference Server provides an optimized.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://git.io/JLy1A" style="display:inline;" width="13" height="13"></code> <code><img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/triton-inference-server/server) (👨‍💻 100 · 🔀 1.2K · 📥 200K · 📋 2.8K - 9% open · ⏱️ 11.06.2023):
+- [GitHub](https://github.com/triton-inference-server/server) (👨‍💻 100 · 🔀 1.2K · 📥 200K · 📋 2.8K - 9% open · ⏱️ 13.06.2023):
 
 	```
 	git clone https://github.com/triton-inference-server/server
