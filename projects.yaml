@@ -63,7 +63,7 @@ projects:
   - name: ModelDB
     categroy: data-versioning
     github_id: VertaAI/modeldb
-    category: ["python"]
+    label: ["python"]
   - name: Kubeflow
     github_id: kubeflow/kubeflow
     category: mlops-end2end
