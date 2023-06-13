@@ -57,7 +57,7 @@ projects:
   #   category: "data-engineering"
   - name: Labelimg
     category: data-labelling
-    github_id: tzutalin/labelImg
+    github_id: heartexlabs/labelImg
   - name: dvc (Data Version Control)
     category: data-versioning
     github_id: iterative/dvc
