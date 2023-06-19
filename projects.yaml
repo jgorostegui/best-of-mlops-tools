@@ -48,16 +48,9 @@ labels:
   - label: "pytorch"
     image: "https://git.io/JLy1Q"
     description: "Uses/supports PyTorch"
-  - label: "pytorch"
-    image: "https://git.io/JLy1Q"
-    description: "Uses/supports PyTorch"
   - label: "ONNX"
     image: "https://artwork.lfaidata.foundation/projects/onnx/stacked/color/onnx-stacked-color.png"
     description: "Uses/supports ONNX (Open Neural Network Exchange)"
-  - label: "pytorch"
-    image: "https://git.io/JLy1Q"
-    description: "Uses/supports PyTorch"
-
 
 
 projects:
