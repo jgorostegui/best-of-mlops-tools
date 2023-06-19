@@ -24,7 +24,7 @@ categories:
     subtitle: "MLOps platforms that covers all the machine learning lifecycle."
   - category: mlops-experimentation-tracking
     title: MLOps experimentation tracking tools
-    subtitle: Tools for managing machine learning experimentation
+    subtitle: Tools for managing machine learning experimentation/workflows
   - category: model-serving
     title: Model Serving
     subtitle: "Tools for model serving"
@@ -48,6 +48,16 @@ labels:
   - label: "pytorch"
     image: "https://git.io/JLy1Q"
     description: "Uses/supports PyTorch"
+  - label: "pytorch"
+    image: "https://git.io/JLy1Q"
+    description: "Uses/supports PyTorch"
+  - label: "ONNX"
+    image: "https://artwork.lfaidata.foundation/projects/onnx/stacked/color/onnx-stacked-color.png"
+    description: "Uses/supports ONNX (Open Neural Network Exchange)"
+  - label: "pytorch"
+    image: "https://git.io/JLy1Q"
+    description: "Uses/supports PyTorch"
+
 
 
 projects:
@@ -73,6 +83,9 @@ projects:
   - name: Luigi
     category: data-workflows
     github_id: spotify/luigi
+  - name: Pachyderm
+    category: data-workflows
+    github_id: pachyderm/pachyderm
   - name: Metaflow
     category: data-workflows
     github_id: Netflix/metaflow
@@ -88,9 +101,20 @@ projects:
   - name: sacred
     github_id: IDSIA/sacred
     category: mlops-experimentation-tracking
+  - name: ClearML
+    github_id: allegroai/clearml
+    category: mlops-experimentation-tracking
   - name: BentoML
     github_id: bentoml/BentoML
-    labels: ["tensorflow", "pytorch"]
+    labels: ["tensorflow", "pytorch", "onnx"]
+    category: model-serving
+  - name: Seldon
+    github_id: SeldonIO/seldon-core
+    category: model-serving
+    labels: ["tensorflow", "pytorch", "onnx"]
+  - name: KServe
+    github_id: kserve/kserve
+    labels: ["tensorflow", "pytorch", "onnx"]
     category: model-serving
   - name: TensorFlow Serving
     github_id: tensorflow/serving
