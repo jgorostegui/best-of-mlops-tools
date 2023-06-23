@@ -9,6 +9,9 @@ categories:
   - category: data-preprocessing
     title: Data Preprocessing Tools
     subtitle: "Tools for data cleaning, transformation, and enrichment."
+  - category: data-visualization
+    title: Data visualization tools
+    subtitle: "Tools for creating high-level visualizations"
   - category: data-labelling
     title: Data labelling tools
     subtitle: "Tools for data labelling"
@@ -64,6 +67,25 @@ projects:
   - name: dvc (Data Version Control)
     category: data-versioning
     github_id: iterative/dvc
+  - name: Dash
+    category: data-visualization
+    github_id: plotly/dash
+    labels: ["python"]
+  - name: voila
+    category: data-visualization
+    github_id: voila-dashboards/voila
+  - name: Dash
+    category: data-visualization
+    github_id: plotly/plotly.py
+    labels: ["python"]
+  - name: Gradio
+    category: data-visualization
+    github_id: gradio-app/gradio
+    labels: ["python"]
+  - name: Streamlit
+    category: data-visualization
+    github_id: streamlit/streamlit
+    labels: ["python"]
   - name: Airflow
     category: data-workflows
     github_id: apache/airflow
@@ -116,6 +138,10 @@ projects:
   - name: Triton Inference Server
     github_id: triton-inference-server/server
     labels: ["tensorflow", "pytorch"]
+    category: model-serving
+  - name: TorchServe
+    github_id: pytorch/serve
+    labels: ["pytorch"]
     category: model-serving
   - name: TFX
     category: model-training
