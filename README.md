@@ -73,23 +73,23 @@ _Tools for data cleaning, transformation, and enrichment._
 
 _Tools for creating high-level visualizations_
 
-<details><summary><b><a href="https://github.com/gradio-app/gradio">Gradio</a></b> (🥇35 ·  ⭐ 21K) - Build and share delightful machine learning apps, in Python Star.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/streamlit/streamlit">Streamlit</a></b> (🥇35 ·  ⭐ 27K · 📈) - Streamlit A faster way to build and share data apps. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/gradio-app/gradio) (👨‍💻 200 · 🔀 1.4K · 📦 12K · 📋 2.7K - 14% open · ⏱️ 30.08.2023):
-
-	```
-	git clone https://github.com/gradio-app/gradio
-	```
-</details>
-<details><summary><b><a href="https://github.com/streamlit/streamlit">Streamlit</a></b> (🥈34 ·  ⭐ 27K) - Streamlit A faster way to build and share data apps. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
-
-- [GitHub](https://github.com/streamlit/streamlit) (👨‍💻 200 · 🔀 2.3K · 📦 950 · 📋 3.5K - 18% open · ⏱️ 30.08.2023):
+- [GitHub](https://github.com/streamlit/streamlit) (👨‍💻 200 · 🔀 2.3K · 📦 980 · 📋 3.6K - 17% open · ⏱️ 14.09.2023):
 
 	```
 	git clone https://github.com/streamlit/streamlit
 	```
 </details>
-<details><summary><b><a href="https://github.com/plotly/dash">Dash</a></b> (🥈34 ·  ⭐ 19K) - Data Apps & Dashboards for Python. No JavaScript Required. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/gradio-app/gradio">Gradio</a></b> (🥇35 ·  ⭐ 22K) - Build and share delightful machine learning apps, all in Python... <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+
+- [GitHub](https://github.com/gradio-app/gradio) (👨‍💻 200 · 🔀 1.5K · 📦 13K · 📋 2.8K - 15% open · ⏱️ 14.09.2023):
+
+	```
+	git clone https://github.com/gradio-app/gradio
+	```
+</details>
+<details><summary><b><a href="https://github.com/plotly/dash">Dash</a></b> (🥉34 ·  ⭐ 19K) - Data Apps & Dashboards for Python. No JavaScript Required. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/plotly/dash) (👨‍💻 140 · 🔀 1.8K · 📦 51K · 📋 1.6K - 46% open · ⏱️ 29.08.2023):
 
@@ -109,7 +109,7 @@ _Tools for creating high-level visualizations_
 
 _Tools for data labelling_
 
-<details><summary><b><a href="https://github.com/HumanSignal/labelImg">Labelimg</a></b> (🥇27 ·  ⭐ 20K · 💤) - LabelImg is now part of the Label Studio community. The popular image.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/HumanSignal/labelImg">Labelimg</a></b> (🥇27 ·  ⭐ 21K · 💤) - LabelImg is now part of the Label Studio community. The popular image.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/HumanSignal/labelImg) (👨‍💻 110 · 🔀 5.7K · 📦 970 · 📋 750 - 51% open · ⏱️ 22.09.2022):
 
@@ -127,39 +127,39 @@ _Frameworks that allow the creation, management, and optimization of complex dat
 
 <details><summary><b><a href="https://github.com/apache/airflow">Airflow</a></b> (🥇43 ·  ⭐ 32K) - Apache Airflow - A platform to programmatically author, schedule, and.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/apache/airflow) (👨‍💻 3K · 🔀 12K · 📥 530K · 📦 7.8K · 📋 7.9K - 8% open · ⏱️ 31.08.2023):
+- [GitHub](https://github.com/apache/airflow) (👨‍💻 3K · 🔀 12K · 📥 530K · 📦 7.9K · 📋 8K - 8% open · ⏱️ 14.09.2023):
 
 	```
 	git clone https://github.com/apache/airflow
 	```
 </details>
-<details><summary><b><a href="https://github.com/argoproj/argo-workflows">Argo</a></b> (🥈38 ·  ⭐ 13K · 📉) - Workflow engine for Kubernetes. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/argoproj/argo-workflows">Argo</a></b> (🥈38 ·  ⭐ 13K) - Workflow Engine for Kubernetes. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/argoproj/argo-workflows) (👨‍💻 800 · 🔀 2.8K · 📥 2.6M · 📦 190 · 📋 5.3K - 16% open · ⏱️ 31.08.2023):
+- [GitHub](https://github.com/argoproj/argo-workflows) (👨‍💻 810 · 🔀 2.9K · 📥 2.7M · 📦 190 · 📋 5.3K - 15% open · ⏱️ 14.09.2023):
 
 	```
 	git clone https://github.com/argoproj/argo-workflows
 	```
 </details>
-<details><summary><b><a href="https://github.com/dagster-io/dagster">dagster</a></b> (🥈35 ·  ⭐ 8.3K · 📈) - An orchestration platform for the development, production, and.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/dagster-io/dagster">dagster</a></b> (🥈35 ·  ⭐ 8.4K) - An orchestration platform for the development, production, and.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/dagster-io/dagster) (👨‍💻 340 · 🔀 1K · 📦 1.5K · 📋 5.8K - 27% open · ⏱️ 31.08.2023):
+- [GitHub](https://github.com/dagster-io/dagster) (👨‍💻 340 · 🔀 1K · 📦 1.5K · 📋 5.9K - 27% open · ⏱️ 14.09.2023):
 
 	```
 	git clone https://github.com/dagster-io/dagster
 	```
 </details>
-<details><summary><b><a href="https://github.com/kubeflow/kubeflow">Kubeflow (Kubeflow Pipelines)</a></b> (🥉33 ·  ⭐ 13K) - Machine Learning Toolkit for Kubernetes. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/kubeflow/kubeflow">Kubeflow (Kubeflow Pipelines)</a></b> (🥉32 ·  ⭐ 13K · 📉) - Machine Learning Toolkit for Kubernetes. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/kubeflow/kubeflow) (👨‍💻 300 · 🔀 2.1K · 📥 79K · 📦 41 · 📋 3.7K - 4% open · ⏱️ 25.08.2023):
+- [GitHub](https://github.com/kubeflow/kubeflow) (👨‍💻 300 · 🔀 2.1K · 📥 79K · 📦 41 · 📋 3.8K - 5% open · ⏱️ 06.09.2023):
 
 	```
 	git clone https://github.com/kubeflow/kubeflow
 	```
 </details>
-<details><summary><b><a href="https://github.com/pachyderm/pachyderm">Pachyderm</a></b> (🥉32 ·  ⭐ 6K · 📈) - Data-Centric Pipelines and Data Versioning. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/pachyderm/pachyderm">Pachyderm</a></b> (🥉32 ·  ⭐ 6K) - Data-Centric Pipelines and Data Versioning. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/pachyderm/pachyderm) (👨‍💻 180 · 🔀 550 · 📥 19K · 📋 3.1K - 22% open · ⏱️ 31.08.2023):
+- [GitHub](https://github.com/pachyderm/pachyderm) (👨‍💻 180 · 🔀 550 · 📥 22K · 📋 3.1K - 22% open · ⏱️ 13.09.2023):
 
 	```
 	git clone https://github.com/pachyderm/pachyderm
@@ -167,15 +167,15 @@ _Frameworks that allow the creation, management, and optimization of complex dat
 </details>
 <details><summary><b><a href="https://github.com/spotify/luigi">Luigi</a></b> (🥉31 ·  ⭐ 17K) - Luigi is a Python module that helps you build complex pipelines of batch.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/spotify/luigi) (👨‍💻 600 · 🔀 2.3K · 📦 2.2K · 📋 970 - 9% open · ⏱️ 20.08.2023):
+- [GitHub](https://github.com/spotify/luigi) (👨‍💻 600 · 🔀 2.3K · 📦 2.2K · 📋 970 - 9% open · ⏱️ 07.09.2023):
 
 	```
 	git clone https://github.com/spotify/luigi
 	```
 </details>
-<details><summary><b><a href="https://github.com/Netflix/metaflow">Metaflow</a></b> (🥉27 ·  ⭐ 6.9K · 📉) - Build and manage real-life data science projects with ease!. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/Netflix/metaflow">Metaflow</a></b> (🥉27 ·  ⭐ 7K) - Build and manage real-life data science projects with ease!. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/Netflix/metaflow) (👨‍💻 72 · 🔀 610 · 📦 520 · 📋 550 - 43% open · ⏱️ 29.08.2023):
+- [GitHub](https://github.com/Netflix/metaflow) (👨‍💻 72 · 🔀 610 · 📦 520 · 📋 550 - 43% open · ⏱️ 12.09.2023):
 
 	```
 	git clone https://github.com/Netflix/metaflow
@@ -189,9 +189,9 @@ _Frameworks that allow the creation, management, and optimization of complex dat
 
 _Tools for data (and model) versioning_
 
-<details><summary><b><a href="https://github.com/iterative/dvc">dvc (Data Version Control)</a></b> (🥇38 ·  ⭐ 12K) - Data Version Control | Git for Data & Models | ML.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/iterative/dvc">dvc (Data Version Control)</a></b> (🥇37 ·  ⭐ 12K · 📉) - Data Version Control | Git for Data & Models | ML.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/iterative/dvc) (👨‍💻 280 · 🔀 1.1K · 📥 39K · 📦 9.2K · 📋 4.4K - 12% open · ⏱️ 30.08.2023):
+- [GitHub](https://github.com/iterative/dvc) (👨‍💻 290 · 🔀 1.1K · 📥 39K · 📦 9.4K · 📋 4.5K - 12% open · ⏱️ 14.09.2023):
 
 	```
 	git clone https://github.com/iterative/dvc
@@ -205,9 +205,9 @@ _Tools for data (and model) versioning_
 
 _MLOps platforms that covers all the machine learning lifecycle._
 
-<details><summary><b><a href="https://github.com/kubeflow/kubeflow">Kubeflow</a></b> (🥇33 ·  ⭐ 13K) - Machine Learning Toolkit for Kubernetes. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/kubeflow/kubeflow">Kubeflow</a></b> (🥇32 ·  ⭐ 13K · 📉) - Machine Learning Toolkit for Kubernetes. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/kubeflow/kubeflow) (👨‍💻 300 · 🔀 2.1K · 📥 79K · 📦 41 · 📋 3.7K - 4% open · ⏱️ 25.08.2023):
+- [GitHub](https://github.com/kubeflow/kubeflow) (👨‍💻 300 · 🔀 2.1K · 📥 79K · 📦 41 · 📋 3.8K - 5% open · ⏱️ 06.09.2023):
 
 	```
 	git clone https://github.com/kubeflow/kubeflow
@@ -223,7 +223,7 @@ _Tools for managing machine learning experimentation/workflows_
 
 <details><summary><b><a href="https://github.com/mlflow/mlflow">MLFlow (Tracking)</a></b> (🥇37 ·  ⭐ 15K) - Open source platform for the machine learning lifecycle. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/mlflow/mlflow) (👨‍💻 630 · 🔀 3.4K · 📦 23K · 📋 3.1K - 32% open · ⏱️ 31.08.2023):
+- [GitHub](https://github.com/mlflow/mlflow) (👨‍💻 640 · 🔀 3.4K · 📦 24K · 📋 3.1K - 33% open · ⏱️ 14.09.2023):
 
 	```
 	git clone https://github.com/mlflow/mlflow
@@ -231,15 +231,15 @@ _Tools for managing machine learning experimentation/workflows_
 </details>
 <details><summary><b><a href="https://github.com/allegroai/clearml">ClearML</a></b> (🥉29 ·  ⭐ 4.7K) - ClearML - Auto-Magical CI/CD to streamline your ML workflow... <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/allegroai/clearml) (👨‍💻 84 · 🔀 580 · 📥 1.5K · 📦 690 · 📋 870 - 42% open · ⏱️ 30.08.2023):
+- [GitHub](https://github.com/allegroai/clearml) (👨‍💻 84 · 🔀 590 · 📥 1.5K · 📦 710 · 📋 870 - 42% open · ⏱️ 11.09.2023):
 
 	```
 	git clone https://github.com/allegroai/clearml
 	```
 </details>
-<details><summary><b><a href="https://github.com/IDSIA/sacred">sacred</a></b> (🥉25 ·  ⭐ 4.1K) - Sacred is a tool to help you configure, organize, log and reproduce.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/IDSIA/sacred">sacred</a></b> (🥉24 ·  ⭐ 4.1K · 📉) - Sacred is a tool to help you configure, organize, log and reproduce.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/IDSIA/sacred) (👨‍💻 100 · 🔀 360 · 📦 2.5K · 📋 560 - 17% open · ⏱️ 19.06.2023):
+- [GitHub](https://github.com/IDSIA/sacred) (👨‍💻 100 · 🔀 360 · 📦 2.6K · 📋 560 - 17% open · ⏱️ 19.06.2023):
 
 	```
 	git clone https://github.com/IDSIA/sacred
@@ -255,7 +255,7 @@ _Tools for model serving_
 
 <details><summary><b><a href="https://github.com/kserve/kserve">KServe</a></b> (🥇34 ·  ⭐ 2.4K) - Standardized Serverless ML Inference Platform on.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://git.io/JLy1A" style="display:inline;" width="13" height="13"></code> <code><img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13"></code> <code><img src="https://artwork.lfaidata.foundation/projects/onnx/stacked/color/onnx-stacked-color.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/kserve/kserve) (👨‍💻 210 · 🔀 780 · 📥 490K · 📦 200 · 📋 1.5K - 21% open · ⏱️ 30.08.2023):
+- [GitHub](https://github.com/kserve/kserve) (👨‍💻 210 · 🔀 780 · 📥 520K · 📦 210 · 📋 1.5K - 21% open · ⏱️ 13.09.2023):
 
 	```
 	git clone https://github.com/kserve/kserve
@@ -263,23 +263,23 @@ _Tools for model serving_
 </details>
 <details><summary><b><a href="https://github.com/bentoml/BentoML">BentoML</a></b> (🥈31 ·  ⭐ 5.6K) - Build Production-Grade AI Applications. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://git.io/JLy1A" style="display:inline;" width="13" height="13"></code> <code><img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13"></code> <code><img src="https://artwork.lfaidata.foundation/projects/onnx/stacked/color/onnx-stacked-color.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/bentoml/BentoML) (👨‍💻 170 · 🔀 610 · 📥 2.1K · 📦 1.2K · 📋 920 - 17% open · ⏱️ 30.08.2023):
+- [GitHub](https://github.com/bentoml/BentoML) (👨‍💻 180 · 🔀 620 · 📥 2.1K · 📦 1.3K · 📋 920 - 17% open · ⏱️ 14.09.2023):
 
 	```
 	git clone https://github.com/bentoml/BentoML
 	```
 </details>
-<details><summary><b><a href="https://github.com/tensorflow/serving">TensorFlow Serving</a></b> (🥈30 ·  ⭐ 5.9K · 📈) - A flexible, high-performance serving system for.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://git.io/JLy1A" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/tensorflow/serving">TensorFlow Serving</a></b> (🥈30 ·  ⭐ 5.9K) - A flexible, high-performance serving system for.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://git.io/JLy1A" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/tensorflow/serving) (👨‍💻 220 · 🔀 2.1K · 📦 12 · 📋 1.4K - 3% open · ⏱️ 27.08.2023):
+- [GitHub](https://github.com/tensorflow/serving) (👨‍💻 220 · 🔀 2.1K · 📦 14 · 📋 1.4K - 3% open · ⏱️ 27.08.2023):
 
 	```
 	git clone https://github.com/tensorflow/serving
 	```
 </details>
-<details><summary><b><a href="https://github.com/pytorch/serve">TorchServe</a></b> (🥈30 ·  ⭐ 3.6K · 📈) - Serve, optimize and scale PyTorch models in production. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/pytorch/serve">TorchServe</a></b> (🥈30 ·  ⭐ 3.6K) - Serve, optimize and scale PyTorch models in production. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/pytorch/serve) (👨‍💻 170 · 🔀 750 · 📥 4.9K · 📦 500 · 📋 1.4K - 20% open · ⏱️ 31.08.2023):
+- [GitHub](https://github.com/pytorch/serve) (👨‍💻 170 · 🔀 750 · 📥 4.9K · 📦 500 · 📋 1.4K - 21% open · ⏱️ 12.09.2023):
 
 	```
 	git clone https://github.com/pytorch/serve
@@ -287,7 +287,7 @@ _Tools for model serving_
 </details>
 <details><summary><b><a href="https://github.com/triton-inference-server/server">Triton Inference Server</a></b> (🥉29 ·  ⭐ 6K) - The Triton Inference Server provides an optimized.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> <code><img src="https://git.io/JLy1A" style="display:inline;" width="13" height="13"></code> <code><img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/triton-inference-server/server) (👨‍💻 110 · 🔀 1.2K · 📥 200K · 📋 3K - 8% open · ⏱️ 30.08.2023):
+- [GitHub](https://github.com/triton-inference-server/server) (👨‍💻 110 · 🔀 1.2K · 📥 200K · 📋 3K - 8% open · ⏱️ 14.09.2023):
 
 	```
 	git clone https://github.com/triton-inference-server/server
@@ -295,7 +295,7 @@ _Tools for model serving_
 </details>
 <details><summary><b><a href="https://github.com/SeldonIO/seldon-core">Seldon</a></b> (🥉29 ·  ⭐ 3.9K) - An MLOps framework to package, deploy, monitor and.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://git.io/JLy1A" style="display:inline;" width="13" height="13"></code> <code><img src="https://git.io/JLy1Q" style="display:inline;" width="13" height="13"></code> <code><img src="https://artwork.lfaidata.foundation/projects/onnx/stacked/color/onnx-stacked-color.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/SeldonIO/seldon-core) (👨‍💻 200 · 🔀 760 · 📥 580 · 📦 510 · 📋 2.2K - 3% open · ⏱️ 31.08.2023):
+- [GitHub](https://github.com/SeldonIO/seldon-core) (👨‍💻 200 · 🔀 760 · 📥 600 · 📦 510 · 📋 2.2K - 3% open · ⏱️ 06.09.2023):
 
 	```
 	git clone https://github.com/SeldonIO/seldon-core
@@ -311,7 +311,7 @@ _Tools for training machine learning models._
 
 <details><summary><b><a href="https://github.com/tensorflow/tfx">TFX</a></b> (🥇25 ·  ⭐ 2K) - TFX is an end-to-end platform for deploying production ML pipelines. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://git.io/JLy1A" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/tensorflow/tfx) (👨‍💻 180 · 🔀 650 · 📋 860 - 5% open · ⏱️ 31.08.2023):
+- [GitHub](https://github.com/tensorflow/tfx) (👨‍💻 180 · 🔀 650 · 📋 870 - 4% open · ⏱️ 14.09.2023):
 
 	```
 	git clone https://github.com/tensorflow/tfx
